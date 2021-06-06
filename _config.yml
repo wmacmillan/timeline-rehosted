@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
+title: "for self hosting"
 description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+year: 2021
+author: William MacMillan
 # add search box to navbar, true/false
-search: false
+search: true
 
 #######
 # SITE URLs
@@ -40,7 +40,7 @@ search: false
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 
 #######
